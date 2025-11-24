@@ -1,0 +1,2 @@
+Saad GitHubi kasutada oma projektide versioonihalduseks ja varundamiseks ning koodi jagamiseks teistega. Lisaks võimaldab see Sul mugavalt teha koostööd meeskonnakaaslastega ja õppida teiste arendajate näidete kaudu.
+GitHub Inc. asutati 2008. aastal Tom Preston-Werneri, Chris Wanstrathi, PJ Hyetti ja Scott Chaconi poolt. GitHubi teenus muutus kasutajatele kättesaadavaks samuti 2008. aastal ning sellest kujunes kiiresti üks populaarsemaid koostööpõhise tarkvaraarenduse platvorme.
